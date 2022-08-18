@@ -16,11 +16,11 @@
       "password": "Fangyuan980314",
       "password_vpn": "Fangyuan980314",
       "email": "614344472@qq.com"
-      "district": "翔安区或思明区",
+      "district": "翔安区",
       "inschool": "在校",
-      "campus": "翔安校区或思明校区",
-      "building": "请保证与打卡页面相同，比如思明白城07",
-      "room": "和查电费一样的四位数，如0101"
+      "campus": "翔安校区",
+      "building": "翔安丰庭01",
+      "room": "0407"
     }
   ]
 }
